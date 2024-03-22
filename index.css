@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+div{
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    width: 35%;
+    background-color: azure;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.fomulario{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    gap: 20px;
+}
+.button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(146, 146, 255);
+    color: aliceblue;
+    border-radius: 20px solid black;
+    width: 50%;
+}
+
